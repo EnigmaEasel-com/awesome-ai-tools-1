@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [EnigmaEasel](https://enigmaeasel.com) - AI Design Tools: Accessible color palettes, gradients, and font pairing generators with Live UI Preview and Tailwind/SCSS exports.
 
 
 ## Learning resources
